@@ -1,0 +1,13 @@
+{
+    "name": "bsc-create-wallet",
+    "description": "",
+    "version": "0.1.0",
+    "scripts": {
+        "main": "node ./src/main.js"
+    },
+    "dependencies": {
+        "web3": "1.7.1"
+    },
+    "devDependencies": {
+    }
+}
